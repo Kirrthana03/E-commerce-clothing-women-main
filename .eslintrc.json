@@ -1,0 +1,5 @@
+{
+  "extends": "next/core-web-vitals",
+  "bracketSameLine": false,
+  "printWidth": 100
+}
